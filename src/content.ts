@@ -1,3 +1,4 @@
+// TODO: Remove any shorts from playlists such as watch later etc.
 import { removeElements } from "./utils";
 
 function removeShorts() {
